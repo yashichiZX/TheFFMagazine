@@ -1,2 +1,3 @@
 # TheFFMagazine
-合言葉は"Take Free." フリーペーパー専門のWebサイトです。
+合言葉は"Take Free."  
+フリーペーパー専門のWebサイトです。
